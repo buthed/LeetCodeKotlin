@@ -4,10 +4,10 @@ fun main(args: Array<String>) {
     twoSum(nums, target)
 }
 
-fun twoSum(nums: IntArray, target: Int): IntArray{
+fun twoSum(nums: IntArray, target: Int): IntArray {
     var result: IntArray = intArrayOf()
     for(i in nums.indices){
-        for(j in 1+i..nums.size){
+        for(j in 1+i..nums.size-1){
             if (nums[i] + nums[j] == target) {
                 result = intArrayOf(i,j)
                 break
