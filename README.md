@@ -12,7 +12,7 @@ Easy
 
 Medium
 -----------
-
+(3) Longest Substring Without Repeating Characters :white_check_mark: JAVA  
 
 Hard
 -----------
