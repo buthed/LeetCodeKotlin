@@ -11,7 +11,8 @@ Easy
 (66) Plus One :white_check_mark: JAVA                                                                   
 (69) Sqrt(x) :white_check_mark: JAVA                                                     
 (136) Single Number :white_check_mark: JAVA                                                     
-(258) Add Digits	:white_check_mark: JAVA                                                                   
+(258) Add Digits	:white_check_mark: JAVA        
+(392) Is Subsequence :white_check_mark: JAVA                          
 (1929) Concatenation of Array :white_check_mark: KOTLIN :white_check_mark: JAVA  
 
 Medium
