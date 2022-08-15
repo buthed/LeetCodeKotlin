@@ -20,6 +20,7 @@ Easy
 Medium
 -----------
 (3) Longest Substring Without Repeating Characters :white_check_mark: JAVA  
+(5) Longest Palindromic Substring :white_check_mark: JAVA  
 (946) Validate Stack Sequences                     :white_check_mark: JAVA  
 
 Hard
