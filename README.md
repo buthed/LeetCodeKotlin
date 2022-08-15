@@ -5,7 +5,7 @@ Easy
 -----------
 (1) Two Sum	:white_check_mark: KOTLIN :white_check_mark: JAVA  
 (9) Palindrome Number	:white_check_mark: KOTLIN :white_check_mark: JAVA   
-(13) Roman to Integer :white_check_mark: JAVA                                                                 
+(13) Roman to Integer :white_check_mark: KOTLIN :white_check_mark: JAVA                                                                 
 (14) Longest Common Prefix :white_check_mark: JAVA                                     
 (20) Valid Parentheses :white_check_mark: JAVA                                     
 (35) Search Insert Position :white_check_mark: JAVA                               
