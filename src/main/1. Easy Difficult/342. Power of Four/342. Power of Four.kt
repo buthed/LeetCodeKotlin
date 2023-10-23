@@ -1,6 +1,4 @@
-@file:Suppress("TYPE_INFERENCE_ONLY_INPUT_TYPES_WARNING")
-
-import kotlin.math.sqrt
+import java.util.*
 
 fun main(args: Array<String>) {
     val s1 : Int = 16
