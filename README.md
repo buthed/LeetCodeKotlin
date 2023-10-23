@@ -3,7 +3,7 @@ Hello, it's my repository for practice Kotlin and Java on LeetCode.
 
 Easy 
 -----------
-(1) Two Sum	:white_check_mark: KOTLIN :white_check_mark: JAVA  
+(1) Two Sum	:white_check_mark: KOTLIN :white_check_mark: JAVA <br> 
 (9) Palindrome Number	:white_check_mark: KOTLIN :white_check_mark: JAVA   
 (13) Roman to Integer :white_check_mark: KOTLIN :white_check_mark: JAVA                                                                 
 (14) Longest Common Prefix :white_check_mark: JAVA                                     
@@ -13,8 +13,8 @@ Easy
 (69) Sqrt(x) :white_check_mark: JAVA                                                     
 (136) Single Number :white_check_mark: JAVA    
 (217) Contains Duplicate :white_check_mark: JAVA                   
-(258) Add Digits	:white_check_mark: JAVA
-(387) First Unique Character in a String :white_check_mark: KOTLIN :white_check_mark: JAVA
+(258) Add Digits	:white_check_mark: JAVA <br>
+(387) First Unique Character in a String :white_check_mark: KOTLIN :white_check_mark: JAVA <br>
 (392) Is Subsequence :white_check_mark: JAVA                          
 (1929) Concatenation of Array :white_check_mark: KOTLIN :white_check_mark: JAVA  
 
