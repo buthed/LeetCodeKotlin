@@ -1,7 +1,3 @@
-@file:Suppress("TYPE_INFERENCE_ONLY_INPUT_TYPES_WARNING")
-
-import kotlin.math.sqrt
-
 fun main(args: Array<String>) {
     val s1 = "Hello World"
     val s2 = "   fly me   to   the moon  "
