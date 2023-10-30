@@ -15,6 +15,7 @@ Easy
 (136) Single Number :white_check_mark: JAVA    
 (217) Contains Duplicate :white_check_mark: JAVA                   
 (258) Add Digits	:white_check_mark: JAVA <br>
+(342) Power of Four :white_check_mark: KOTLIN  <br>
 (387) First Unique Character in a String :white_check_mark: KOTLIN :white_check_mark: JAVA <br>
 (392) Is Subsequence :white_check_mark: JAVA                          
 (1929) Concatenation of Array :white_check_mark: KOTLIN :white_check_mark: JAVA  
