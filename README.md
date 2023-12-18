@@ -15,7 +15,8 @@ Easy
 (217) Contains Duplicate :white_check_mark: JAVA                   
 (258) Add Digits	:white_check_mark: JAVA
 (387) First Unique Character in a String :white_check_mark: KOTLIN :white_check_mark: JAVA
-(392) Is Subsequence :white_check_mark: JAVA                          
+(392) Is Subsequence :white_check_mark: JAVA      
+(1913) Maximum Product Difference Between Two Pairs :white_check_mark: KOTLIN
 (1929) Concatenation of Array :white_check_mark: KOTLIN :white_check_mark: JAVA  
 
 Medium
